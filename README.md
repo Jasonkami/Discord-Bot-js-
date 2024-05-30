@@ -6,3 +6,4 @@ I'm using:
 - the node modules via ```npm i```
 
 I've also create a [discord bot written in py](https://github.com/Jasonkami/Discord-Bot-py-), that supports slash commands.
+It is currently work in progress tho.
